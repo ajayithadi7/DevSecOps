@@ -25,5 +25,4 @@ Examples include file storage (Google Drive), streaming (Netflix), and email (Gm
 - **Private Cloud:** Dedicated infrastructure for one org (on-prem or hosted)
 - **Hybrid Cloud:** Combination of public + private for flexibility
 - **Community Cloud:** Shared infrastructure for orgs with common needs (education, research)
-
----
+-----

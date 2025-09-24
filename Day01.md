@@ -5,8 +5,8 @@ Today marks the start of my AWS & DevOps learning journey. I focused on understa
 ## 📝 Notes
 
 ### What is Cloud Computing?
-On demand delivery of IT resources over the Internet
-Renting computing resources over the internet instead of owning and managing physical hardware. 
+On demand delivery of IT resources over the Internet. 
+ Renting computing resources over the internet instead of owning and managing physical hardware. 
 Examples include file storage (Google Drive), streaming (Netflix), and email (Gmail).
 
 ### Benefits
